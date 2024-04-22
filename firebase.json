@@ -1,7 +1,12 @@
 {
-    "hosting":{
-
-        "site":"buapim-app",
-        "public":"public"
+    "hosting": {
+      "target":"buapims-app",
+      "public": "public",  // The folder that contains your site assets, adjust if your folder has a different name
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
     }
-}
+  }
+  
