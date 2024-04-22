@@ -1,12 +1,7 @@
 {
     "hosting": {
       "target":"buapims-app",
-      "public": "public", 
-      "ignore": [
-        "firebase.json",
-        "**/.*",
-        "**/node_modules/**"
-      ]
+      "public": "public"
     }
   }
   
