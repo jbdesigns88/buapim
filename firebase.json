@@ -1,7 +1,7 @@
 {
     "hosting": {
       "target":"buapims-app",
-      "public": "public",  // The folder that contains your site assets, adjust if your folder has a different name
+      "public": "public", 
       "ignore": [
         "firebase.json",
         "**/.*",
