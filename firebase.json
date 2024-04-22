@@ -1,4 +1,7 @@
 {
-    "site":"buapim-app",
-    "public":"public"
+    "hosting":{
+
+        "site":"buapim-app",
+        "public":"public"
+    }
 }
