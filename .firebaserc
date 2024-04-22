@@ -1,0 +1,13 @@
+{
+  "projects": {},
+  "targets": {
+    "buapims-app": {
+      "hosting": {
+        "buapims-app": [
+          "buapims-app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
